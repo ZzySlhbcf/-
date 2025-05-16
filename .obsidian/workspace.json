@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "870aa481801f5c16",
+            "id": "1578dc8011c3578d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "尖塔资源调度与选牌逻辑"
-            }
-          },
-          {
-            "id": "1578dc8011c3578d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           }
         ]
@@ -88,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7adf390b65951bff",
@@ -193,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "870aa481801f5c16",
+  "active": "1578dc8011c3578d",
   "lastOpenFiles": [
-    "参考文献/百度贴吧/何谓无限？——浅谈“卡组循环”在卡组构筑中的作用与应用.md",
+    "2022-05-15.md",
     "参考文献/百度贴吧/尖塔资源调度与选牌逻辑.md",
+    "参考文献/百度贴吧/何谓无限？——浅谈“卡组循环”在卡组构筑中的作用与应用.md",
     "2025-05-16.md",
     "第2章 专业知识与术语/2.2 遗物分析",
     "第2章 专业知识与术语/2.1 卡牌分析",
